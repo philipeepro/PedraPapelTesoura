@@ -1,2 +1,2 @@
 # PedraPapelTesoura
- Jogo Pedra, Papel ou Tesoura. Jogador vs Computador (ferramentos do Desenvolvedor - Console)
+ Jogo Pedra, Papel ou Tesoura. Jogador vs Computador (ferramentas do Desenvolvedor - Console)
